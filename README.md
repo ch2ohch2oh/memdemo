@@ -173,7 +173,8 @@ Number of snapshots: 68
 - [What’s Eating my RAM? - C++ Memory Management - Jianfei Pan - CppCon 2024][2] covers 
 memory leak vs memory fragmentation and how using allocators could help to mitigate
 memory fragmentation.
-
+- [What Programmers Should Know About Memory Allocation - S. Al Bahra, H. Sowa, P. Khuong - CppCon 2019][3]
 
 [1]: https://sourceware.org/glibc/wiki/MallocInternals
 [2]: https://www.youtube.com/watch?v=y6AN0ks2q0A
+[3]: https://www.youtube.com/watch?v=gYfd25Bdmws
