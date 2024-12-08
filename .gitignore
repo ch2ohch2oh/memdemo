@@ -1,0 +1,5 @@
+.vscode
+out
+a.out
+*.out.*
+*.json
